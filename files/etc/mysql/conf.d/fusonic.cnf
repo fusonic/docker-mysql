@@ -1,0 +1,10 @@
+[mysqld]
+performance_schema=off
+innodb_buffer_pool_size=536870912
+innodb_flush_log_at_trx_commit=0
+innodb_log_buffer_size=4194304
+innodb_log_file_size=1048576
+innodb_fast_shutdown=2
+innodb_flush_method=O_DIRECT
+query_cache_size=0
+skip_name_resolve=1
