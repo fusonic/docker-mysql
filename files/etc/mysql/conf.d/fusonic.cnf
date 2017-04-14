@@ -7,4 +7,3 @@ innodb_log_file_size=1048576
 innodb_fast_shutdown=2
 innodb_flush_method=O_DIRECT
 query_cache_size=0
-skip_name_resolve=1
